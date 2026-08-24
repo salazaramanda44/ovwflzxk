@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "[3.1]小工具-文件名字追加日期",
+    "author": "欠偝睭",
+    "time": "2026年08月25日04时12分58秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "中消协点名AI客服转人工不畅、网贷不规范催收等",
+  "description": "袁娅维闪现墨尔本街头即兴演唱",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.iuswp.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "瑞幸七夕联名引争议",
+    "description": "内容页的详细描述，可包含www.blog.iuswp.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "崛緍奾"
+    },
+    "datePublished": "2026年08月25日04时12分58秒",
+    "dateModified": "2026年08月25日04时12分58秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "实证研究：AI杀猪盘比人类更强，已上岗缅甸",
+      "url": "www.blog.iuswp.cn/Article/details/997709.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "这8个饮食习惯，悄悄“吃掉”你的免疫力！最后一个很多人“中招”",
+      "share_url": "www.blog.iuswp.cn/Article/details/296224.sHtML"
+    },
+{
+      "platform": "新一轮事业单位改革：三类人可转参公，四类人员统一分流安置",
+      "share_url": "www.blog.iuswp.cn/Article/details/113107.sHtML"
+    },
+{
+      "platform": "仿生机器人“以假乱真”",
+      "share_url": "www.blog.iuswp.cn/Article/details/405365.sHtML"
+    },
+{
+      "platform": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "share_url": "www.blog.iuswp.cn/Article/details/286253.sHtML"
+    },
+{
+      "platform": "【千璃Senri】「好きだから。」所以是特别日的特别告白",
+      "share_url": "www.blog.iuswp.cn/Article/details/459097.sHtML"
+    },
+{
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "www.blog.iuswp.cn/Article/details/714115.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
+      "share_url": "www.blog.iuswp.cn/Article/details/744401.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "www.blog.iuswp.cn/Article/details/785415.sHtML"
+    },
+{
+      "platform": "正泰电器 2026 年半年度归母净利润 31.30 亿元，同比增长 22.23%",
+      "share_url": "www.blog.iuswp.cn/Article/details/280446.sHtML"
+    },
+    {
+      "platform": "药代违规进入诊疗区域，四家药企产品被湘雅二医院暂停使用3个月",
+      "share_url": "www.blog.iuswp.cn/Article/details/630020.sHtML"
+    },
+{
+      "platform": "七夕男朋友没有任何表示",
+      "share_url": "www.blog.iuswp.cn/Article/details/692083.sHtML"
+    },
+{
+      "platform": "2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起",
+      "share_url": "www.blog.iuswp.cn/Article/details/791200.sHtML"
+    },
+{
+      "platform": "高不高产不知道 反正十八张图不够发",
+      "share_url": "www.blog.iuswp.cn/Article/details/255791.sHtML"
+    },
+{
+      "platform": "媒体：拿了地的高管和分管城建的原副区长，这饭吃的是什么？",
+      "share_url": "www.blog.iuswp.cn/Article/details/022125.sHtML"
+    },
+{
+      "platform": "超详细白帽黑客学习路线",
+      "share_url": "www.blog.iuswp.cn/Article/details/326429.sHtML"
+    },
+{
+      "platform": "金山办公 2026 年上半年归母净利润 25.18 亿元，同比增长 236.94%",
+      "share_url": "www.blog.iuswp.cn/Article/details/304202.sHtML"
+    },
+{
+      "platform": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
+      "share_url": "www.blog.iuswp.cn/Article/details/834258.sHtML"
+    },
+{
+      "platform": "七夕整点三角洲专属浪漫",
+      "share_url": "www.blog.iuswp.cn/Article/details/293711.sHtML"
+    },
+{
+      "platform": "哔哩哔哩等其他视频简易下载器",
+      "share_url": "www.blog.iuswp.cn/Article/details/263077.sHtML"
+    },
+    {
+      "platform": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
+      "share_url": "www.blog.iuswp.cn/Article/details/695145.sHtML"
+    },
+{
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "www.blog.iuswp.cn/Article/details/596597.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "www.blog.iuswp.cn/Article/details/008188.sHtML"
+    },
+{
+      "platform": "马斯克遭遇“黑色七月”，个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”",
+      "share_url": "www.blog.iuswp.cn/Article/details/564061.sHtML"
+    },
+{
+      "platform": "今日辟谣｜“新疆喀什经济开发区零地价供地免租金”系谣言",
+      "share_url": "www.blog.iuswp.cn/Article/details/540939.sHtML"
+    },
+{
+      "platform": "女孩顺风车内暴晒2小时求救",
+      "share_url": "www.blog.iuswp.cn/Article/details/524932.sHtML"
+    },
+{
+      "platform": "微信视频号下载助手 wx_channel V5.7.1",
+      "share_url": "www.blog.iuswp.cn/Article/details/528026.sHtML"
+    },
+{
+      "platform": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
+      "share_url": "www.blog.iuswp.cn/Article/details/810138.sHtML"
+    },
+{
+      "platform": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势",
+      "share_url": "www.blog.iuswp.cn/Article/details/897397.sHtML"
+    },
+{
+      "platform": "分享我舒缓压力的方法：写感恩日记/成功日记！希望你也可以因为一点小事就幸福呀！",
+      "share_url": "www.blog.iuswp.cn/Article/details/435666.sHtML"
+    },
+    {
+      "platform": "独自拥有的那些瞬间",
+      "share_url": "www.blog.iuswp.cn/Article/details/058932.sHtML"
+    },
+{
+      "platform": "乘风 Zhang Concepts“超级三合一”战术包",
+      "share_url": "www.blog.iuswp.cn/Article/details/798900.sHtML"
+    },
+{
+      "platform": "女生墨尔本街头翻唱遇袁娅维加入",
+      "share_url": "www.blog.iuswp.cn/Article/details/123098.sHtML"
+    },
+{
+      "platform": "儿科医生离世患儿家属送别",
+      "share_url": "www.blog.iuswp.cn/Article/details/449935.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+      "share_url": "www.blog.iuswp.cn/Article/details/342144.sHtML"
+    },
+{
+      "platform": "为博流量恶意拨打110被行拘",
+      "share_url": "www.blog.iuswp.cn/Article/details/729536.sHtML"
+    },
+{
+      "platform": "产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？",
+      "share_url": "www.blog.iuswp.cn/Article/details/227022.sHtML"
+    },
+{
+      "platform": "有报道称中联部已邀请日本国会议员下周访华 中方回应",
+      "share_url": "www.blog.iuswp.cn/Article/details/239035.sHtML"
+    },
+{
+      "platform": "一个禁止w7和w10/w11系统更新的小软件3.0正式版，屏蔽w11升级提醒。（已更新）",
+      "share_url": "www.blog.iuswp.cn/Article/details/675651.sHtML"
+    },
+{
+      "platform": "胖东来澄清“无门槛招聘刑满释放人员”：排除性侵等恶性犯罪前科人员",
+      "share_url": "www.blog.iuswp.cn/Article/details/323709.sHtML"
+    },
+    {
+      "platform": "女子乘飞机后眼前现黑影",
+      "share_url": "www.blog.iuswp.cn/Article/details/830299.sHtML"
+    },
+{
+      "platform": "王者新英雄王维上线体验服",
+      "share_url": "www.blog.iuswp.cn/Article/details/934368.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "www.blog.iuswp.cn/Article/details/857952.sHtML"
+    },
+{
+      "platform": "拍张写真祝老己七夕快乐",
+      "share_url": "www.blog.iuswp.cn/Article/details/442958.sHtML"
+    },
+{
+      "platform": "多地宣布：调整最低工资标准",
+      "share_url": "www.blog.iuswp.cn/Article/details/916696.sHtML"
+    },
+{
+      "platform": "生而全球，淬炼而归：风云T7正式开启预售，10.99万元起",
+      "share_url": "www.blog.iuswp.cn/Article/details/337185.sHtML"
+    },
+{
+      "platform": "杭州男子被蝉鸣吵成耳聋，怪不得皇上总是要苏培盛粘蝉呢",
+      "share_url": "www.blog.iuswp.cn/Article/details/131031.sHtML"
+    },
+{
+      "platform": "重庆森林，一部现实与梦境交织的电影",
+      "share_url": "www.blog.iuswp.cn/Article/details/684613.sHtML"
+    },
+{
+      "platform": "Moderna美股盘前涨超80% 公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响",
+      "share_url": "www.blog.iuswp.cn/Article/details/019998.sHtML"
+    },
+{
+      "platform": "结婚8年发现三娃均非亲生 男方已将孩子全部送还女方",
+      "share_url": "www.blog.iuswp.cn/Article/details/630068.sHtML"
+    },
+    {
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "www.blog.iuswp.cn/Article/details/519670.sHtML"
+    },
+{
+      "platform": "光迅科技 2026 年半年度归母净利润 5.82 亿元，同比增长 56.34%",
+      "share_url": "www.blog.iuswp.cn/Article/details/229039.sHtML"
+    },
+{
+      "platform": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
+      "share_url": "www.blog.iuswp.cn/Article/details/573111.sHtML"
+    },
+{
+      "platform": "鸻鸻鹬鹬的秋迁序曲",
+      "share_url": "www.blog.iuswp.cn/Article/details/708080.sHtML"
+    },
+{
+      "platform": "鸿蒙智行发布关于近期“竹知了”相关网络信息的情况说明",
+      "share_url": "www.blog.iuswp.cn/Article/details/266487.sHtML"
+    },
+{
+      "platform": "总经理接供应商私活赚1036万",
+      "share_url": "www.blog.iuswp.cn/Article/details/204976.sHtML"
+    },
+{
+      "platform": "昆明一检测列车撞人致11死2伤，国铁昆明局被罚300万元",
+      "share_url": "www.blog.iuswp.cn/Article/details/335385.sHtML"
+    },
+{
+      "platform": "不理解林肯号上的士兵为啥后勤稍微差一点就无法忍受了，不就是水果、日用品短缺吗？",
+      "share_url": "www.blog.iuswp.cn/Article/details/313312.sHtML"
+    },
+{
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "www.blog.iuswp.cn/Article/details/716516.sHtML"
+    },
+{
+      "platform": "中国经济何以持续“向新向优向好”？",
+      "share_url": "www.blog.iuswp.cn/Article/details/375420.sHtML"
+    },
+    {
+      "platform": "“台风吹落风力发电机的桨叶”不实",
+      "share_url": "www.blog.iuswp.cn/Article/details/571183.sHtML"
+    },
+{
+      "platform": "美股盘前要点 | 美联储7月会议纪要凌晨公布，SK海力士官宣40万亿韩元回购计划",
+      "share_url": "www.blog.iuswp.cn/Article/details/421822.sHtML"
+    },
+{
+      "platform": "搭载行业首个七年长寿万级大电池，OPPO发布新一代耐用传奇A7 Pro Max",
+      "share_url": "www.blog.iuswp.cn/Article/details/288147.sHtML"
+    },
+{
+      "platform": "比特币价格腰斩多空交织",
+      "share_url": "www.blog.iuswp.cn/Article/details/886950.sHtML"
+    },
+{
+      "platform": "为什么美银认为腾讯AI迎来“中途岛时刻”？",
+      "share_url": "www.blog.iuswp.cn/Article/details/207407.sHtML"
+    },
+{
+      "platform": "多省份调整最低工资标准，不少人工资却不升反降，网友：国有国法，厂有厂规",
+      "share_url": "www.blog.iuswp.cn/Article/details/064323.sHtML"
+    },
+{
+      "platform": "下班了，年轻人赶着去做副业",
+      "share_url": "www.blog.iuswp.cn/Article/details/488193.sHtML"
+    },
+{
+      "platform": "古巨基54岁生日全家合照曝光，58岁妻子状态年轻，两个儿子像妈妈",
+      "share_url": "www.blog.iuswp.cn/Article/details/973846.sHtML"
+    },
+{
+      "platform": "婚外胚胎案男方发声：一直愿意配合销毁胚胎；妻子回应：声明避重就轻，至今未见任何实质性举措",
+      "share_url": "www.blog.iuswp.cn/Article/details/972149.sHtML"
+    },
+{
+      "platform": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "share_url": "www.blog.iuswp.cn/Article/details/531551.sHtML"
+    },
+    {
+      "platform": "著名导演怒喷观众：你们都敢去看《牛来》，为什么不敢来看我的电影？我要排片，我要排片！",
+      "share_url": "www.blog.iuswp.cn/Article/details/014931.sHtML"
+    },
+{
+      "platform": "电车自驾游睡车上引发热议，反对者主要出于哪些考虑？",
+      "share_url": "www.blog.iuswp.cn/Article/details/907279.sHtML"
+    },
+{
+      "platform": "千万别用手拍，最近很多人家里有！深圳曾有一男子被迫摘除眼球，“第二天就失明”",
+      "share_url": "www.blog.iuswp.cn/Article/details/001615.sHtML"
+    },
+{
+      "platform": "影史经典《肖申克的救赎 》4K 修复版预售，8 月 28 日首登中国内地大银幕",
+      "share_url": "www.blog.iuswp.cn/Article/details/281796.sHtML"
+    },
+{
+      "platform": "这款厨房纸立即停用",
+      "share_url": "www.blog.iuswp.cn/Article/details/016685.sHtML"
+    },
+{
+      "platform": "个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障",
+      "share_url": "www.blog.iuswp.cn/Article/details/582763.sHtML"
+    },
+{
+      "platform": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "share_url": "www.blog.iuswp.cn/Article/details/852032.sHtML"
+    },
+{
+      "platform": "Anthropic全面部署Claude隐形文本水印；DeepSeek峰谷分时定价机制生效；南海伏季休渔期结束",
+      "share_url": "www.blog.iuswp.cn/Article/details/111207.sHtML"
+    },
+{
+      "platform": "紫牛头条｜江苏3岁罕见病女童完成冷冻卵巢手术，妈妈：希望给女儿未来选择的权利",
+      "share_url": "www.blog.iuswp.cn/Article/details/911623.sHtML"
+    },
+{
+      "platform": "丁程鑫曾长期营养不良",
+      "share_url": "www.blog.iuswp.cn/Article/details/885860.sHtML"
+    },
+    {
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "www.blog.iuswp.cn/Article/details/778934.sHtML"
+    },
+{
+      "platform": "老人举起手机想拍美丽的鱼灯，却遭连环广告疯狂弹窗！",
+      "share_url": "www.blog.iuswp.cn/Article/details/848854.sHtML"
+    },
+{
+      "platform": "定性了！中国打破几十年惯例，正式对靖国神社改了称呼，还原真相",
+      "share_url": "www.blog.iuswp.cn/Article/details/980847.sHtML"
+    },
+{
+      "platform": "翻旧案！韩国足协不当招待传闻发酵，当年赴韩足协官员已成阶下囚",
+      "share_url": "www.blog.iuswp.cn/Article/details/680686.sHtML"
+    },
+{
+      "platform": "人形机器人举重怎么判",
+      "share_url": "www.blog.iuswp.cn/Article/details/012513.sHtML"
+    },
+{
+      "platform": "歌手毕夏首谈丈夫张恒远离世",
+      "share_url": "www.blog.iuswp.cn/Article/details/984648.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "www.blog.iuswp.cn/Article/details/854483.sHtML"
+    },
+{
+      "platform": "我看见两朵一样的云",
+      "share_url": "www.blog.iuswp.cn/Article/details/118307.sHtML"
+    },
+{
+      "platform": "WTM何时出现？8个月内的必然",
+      "share_url": "www.blog.iuswp.cn/Article/details/596921.sHtML"
+    },
+{
+      "platform": "原价898元西瓜售出77单，平台回应“营养高10倍”：将提交质检部门调查",
+      "share_url": "www.blog.iuswp.cn/Article/details/695380.sHtML"
+    },
+    {
+      "platform": "出狱前8天被改判死缓，最高检指导案例公布案件细节",
+      "share_url": "www.blog.iuswp.cn/Article/details/093038.sHtML"
+    },
+{
+      "platform": "中国汽车欧洲份额破10%",
+      "share_url": "www.blog.iuswp.cn/Article/details/110964.sHtML"
+    },
+{
+      "platform": "把我朋友的话分享给所有迷茫焦虑痛苦的女性",
+      "share_url": "www.blog.iuswp.cn/Article/details/773714.sHtML"
+    },
+{
+      "platform": "真有这么大的NN MM吗？这要如何才能掌控？",
+      "share_url": "www.blog.iuswp.cn/Article/details/523659.sHtML"
+    },
+{
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "www.blog.iuswp.cn/Article/details/722595.sHtML"
+    },
+{
+      "platform": "天才少年离职卖玉米",
+      "share_url": "www.blog.iuswp.cn/Article/details/663880.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+      "share_url": "www.blog.iuswp.cn/Article/details/146792.sHtML"
+    },
+{
+      "platform": "欧洲现在没有一个共产主义国家，马克思如果看到这一幕、会不会万念俱灰",
+      "share_url": "www.blog.iuswp.cn/Article/details/620102.sHtML"
+    },
+{
+      "platform": "沈文裕默默翻评论满足粉丝点歌",
+      "share_url": "www.blog.iuswp.cn/Article/details/013110.sHtML"
+    },
+{
+      "platform": "河南暴雨农户蹚没腰积水抢收花生",
+      "share_url": "www.blog.iuswp.cn/Article/details/387651.sHtML"
+    },
+    {
+      "platform": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
+      "share_url": "www.blog.iuswp.cn/Article/details/010546.sHtML"
+    },
+{
+      "platform": "咖啡厅出片技巧之静物篇",
+      "share_url": "www.blog.iuswp.cn/Article/details/757353.sHtML"
+    },
+{
+      "platform": "“不装”消费，当这届消费者开始卸下社交滤镜",
+      "share_url": "www.blog.iuswp.cn/Article/details/197721.sHtML"
+    },
+{
+      "platform": "全球市场大跳水原因",
+      "share_url": "www.blog.iuswp.cn/Article/details/353538.sHtML"
+    },
+{
+      "platform": "博格巴巅峰身价1亿如今剩250万",
+      "share_url": "www.blog.iuswp.cn/Article/details/235099.sHtML"
+    },
+{
+      "platform": "哈佛太平间盗卖遗体案和解",
+      "share_url": "www.blog.iuswp.cn/Article/details/387866.sHtML"
+    },
+{
+      "platform": "“假总编”被聘为真顾问：陕西千阳曾提出全县文化单位为张龙提供工作便利",
+      "share_url": "www.blog.iuswp.cn/Article/details/404749.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "www.blog.iuswp.cn/Article/details/733179.sHtML"
+    },
+{
+      "platform": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
+      "share_url": "www.blog.iuswp.cn/Article/details/518726.sHtML"
+    },
+{
+      "platform": "陕西千阳回应“聘任假总编张龙并为其背书”：我们也被骗了",
+      "share_url": "www.blog.iuswp.cn/Article/details/265609.sHtML"
+    },
+    {
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "www.blog.iuswp.cn/Article/details/320387.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "www.blog.iuswp.cn/Article/details/783666.sHtML"
+    },
+{
+      "platform": "佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "share_url": "www.blog.iuswp.cn/Article/details/812633.sHtML"
+    },
+{
+      "platform": "字节面试官皱眉了："你的 Agent 为啥用 Code RAG 而不用 grep？Claude Code 都实践出来 grep 效果好，难道你们另有其他考虑？"",
+      "share_url": "www.blog.iuswp.cn/Article/details/785784.sHtML"
+    },
+{
+      "platform": "8年养育3女儿非亲生案开庭",
+      "share_url": "www.blog.iuswp.cn/Article/details/803691.sHtML"
+    },
+{
+      "platform": "领航出海·连接全球：2026 ChinaJoy BTOB 馆盛况空前",
+      "share_url": "www.blog.iuswp.cn/Article/details/035930.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "www.blog.iuswp.cn/Article/details/811377.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食大姐想坐遭拒",
+      "share_url": "www.blog.iuswp.cn/Article/details/052167.sHtML"
+    },
+{
+      "platform": "工厂模式与 Nest.js 核心思想 —— 从蜜雪冰城到企业级架构",
+      "share_url": "www.blog.iuswp.cn/Article/details/217301.sHtML"
+    },
+{
+      "platform": "《功夫女足》票房23亿，算是周星驰的滑铁卢吗？",
+      "share_url": "www.blog.iuswp.cn/Article/details/289646.sHtML"
+    },
+    {
+      "platform": "量大腿能知道自己有没有糖尿病吗",
+      "share_url": "www.blog.iuswp.cn/Article/details/019313.sHtML"
+    },
+{
+      "platform": "第五人格加页手记微综艺",
+      "share_url": "www.blog.iuswp.cn/Article/details/174735.sHtML"
+    },
+{
+      "platform": "总台七夕晚会节目单",
+      "share_url": "www.blog.iuswp.cn/Article/details/826402.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "www.blog.iuswp.cn/Article/details/902106.sHtML"
+    },
+{
+      "platform": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
+      "share_url": "www.blog.iuswp.cn/Article/details/100797.sHtML"
+    },
+{
+      "platform": "“龙餐馆”走红谁又“破防”了",
+      "share_url": "www.blog.iuswp.cn/Article/details/210803.sHtML"
+    },
+{
+      "platform": "北京时间今天14时35分，SpaceX火箭残骸将撞击月球，预计将形成有史以来最大规模的人造陨石坑",
+      "share_url": "www.blog.iuswp.cn/Article/details/471220.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "www.blog.iuswp.cn/Article/details/830824.sHtML"
+    },
+{
+      "platform": "证券业上演极致马太效应，形成三层稳态格局",
+      "share_url": "www.blog.iuswp.cn/Article/details/420384.sHtML"
+    },
+{
+      "platform": "继冰箱、烤面包机后，微软 Xbox 将与宜家推出联名家具",
+      "share_url": "www.blog.iuswp.cn/Article/details/971115.sHtML"
+    },
+    {
+      "platform": "隔热层“飞”了 责任谁担",
+      "share_url": "www.blog.iuswp.cn/Article/details/046802.sHtML"
+    },
+{
+      "platform": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "share_url": "www.blog.iuswp.cn/Article/details/112020.sHtML"
+    },
+{
+      "platform": "七界梦谭天上谣三测PV",
+      "share_url": "www.blog.iuswp.cn/Article/details/318881.sHtML"
+    },
+{
+      "platform": "滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背五个名字",
+      "share_url": "www.blog.iuswp.cn/Article/details/033678.sHtML"
+    },
+{
+      "platform": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "share_url": "www.blog.iuswp.cn/Article/details/157362.sHtML"
+    },
+{
+      "platform": "体育生最爱！上海168元铜锅涮肉自助，到底能不能回本？",
+      "share_url": "www.blog.iuswp.cn/Article/details/483628.sHtML"
+    },
+{
+      "platform": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+      "share_url": "www.blog.iuswp.cn/Article/details/237805.sHtML"
+    },
+{
+      "platform": "小狗被困深坑多日瘦成皮包骨",
+      "share_url": "www.blog.iuswp.cn/Article/details/595091.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "www.blog.iuswp.cn/Article/details/627225.sHtML"
+    },
+{
+      "platform": "河北卡友称进山西就得睡半小时午觉",
+      "share_url": "www.blog.iuswp.cn/Article/details/426395.sHtML"
+    },
+    {
+      "platform": "王力宏王兴兴坐一桌",
+      "share_url": "www.blog.iuswp.cn/Article/details/558891.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "www.blog.iuswp.cn/Article/details/808468.sHtML"
+    },
+{
+      "platform": "华东首个，京东物流长三角至京津冀电商多式联运快速班列成功开行",
+      "share_url": "www.blog.iuswp.cn/Article/details/321095.sHtML"
+    },
+{
+      "platform": "媒体：董明珠办技校学费可以再低点",
+      "share_url": "www.blog.iuswp.cn/Article/details/020476.sHtML"
+    },
+{
+      "platform": "敢反资本敢拍强权！《龙餐馆》立意封神，却被有几处剧本逻辑漏洞。",
+      "share_url": "www.blog.iuswp.cn/Article/details/725550.sHtML"
+    },
+{
+      "platform": "空枪檀健次模仿广西普通话",
+      "share_url": "www.blog.iuswp.cn/Article/details/219679.sHtML"
+    },
+{
+      "platform": "尼罗河都流经沙漠了，为什么没有水土流失？黄河却这么严重？",
+      "share_url": "www.blog.iuswp.cn/Article/details/314105.sHtML"
+    },
+{
+      "platform": "如果网络不分层，互联网会崩溃成什么样？",
+      "share_url": "www.blog.iuswp.cn/Article/details/754510.sHtML"
+    },
+{
+      "platform": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+      "share_url": "www.blog.iuswp.cn/Article/details/890720.sHtML"
+    },
+{
+      "platform": "特斯拉上线豆包大模型",
+      "share_url": "www.blog.iuswp.cn/Article/details/265207.sHtML"
+    },
+    {
+      "platform": "韩国股市为何大起大落",
+      "share_url": "www.blog.iuswp.cn/Article/details/702525.sHtML"
+    },
+{
+      "platform": "抽象的剧遇上了抽象的演员",
+      "share_url": "www.blog.iuswp.cn/Article/details/674450.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "www.blog.iuswp.cn/Article/details/529363.sHtML"
+    },
+{
+      "platform": "净利最高暴增 977%，老牌教培释放回暖信号",
+      "share_url": "www.blog.iuswp.cn/Article/details/074473.sHtML"
+    },
+{
+      "platform": "银行“反内卷”，建行一家分行火了：员工午休1.5小时，暂停全部人工柜面服务！业内人士：过去几十年大家不午休，是因为谁都不敢第一个休",
+      "share_url": "www.blog.iuswp.cn/Article/details/202359.sHtML"
+    },
+{
+      "platform": "上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？",
+      "share_url": "www.blog.iuswp.cn/Article/details/397520.sHtML"
+    },
+{
+      "platform": "2026 七夕档总票房突破 2.71 亿，《欢迎来龙餐馆》成档期冠军",
+      "share_url": "www.blog.iuswp.cn/Article/details/773680.sHtML"
+    },
+{
+      "platform": "这也太爽了吧，我也想要这么干",
+      "share_url": "www.blog.iuswp.cn/Article/details/302318.sHtML"
+    },
+{
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "www.blog.iuswp.cn/Article/details/824608.sHtML"
+    },
+{
+      "platform": "多标签资源管理器 Clover V3.5.6 去广告绿色美化版 火绒不报毒",
+      "share_url": "www.blog.iuswp.cn/Article/details/763876.sHtML"
+    },
+    {
+      "platform": "【柯基】抽象电影《牛来》片尾曲｜《雨后轻风有香》",
+      "share_url": "www.blog.iuswp.cn/Article/details/500666.sHtML"
+    },
+{
+      "platform": "男子立遗嘱财产给弟弟不给妻儿引纷争",
+      "share_url": "www.blog.iuswp.cn/Article/details/175056.sHtML"
+    },
+{
+      "platform": "涉王星案！跨境人口贩卖集团17名犯罪嫌疑人被提起公诉",
+      "share_url": "www.blog.iuswp.cn/Article/details/963541.sHtML"
+    },
+{
+      "platform": "HWG！国米3500万欧拿下琼斯，英超“三斯”齐聚梅阿查掀蓝黑风暴",
+      "share_url": "www.blog.iuswp.cn/Article/details/785509.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "www.blog.iuswp.cn/Article/details/348541.sHtML"
+    },
+{
+      "platform": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
+      "share_url": "www.blog.iuswp.cn/Article/details/196293.sHtML"
+    },
+{
+      "platform": "“AI剧像喂猪一样 实在吃不下了”",
+      "share_url": "www.blog.iuswp.cn/Article/details/634813.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "www.blog.iuswp.cn/Article/details/494278.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "www.blog.iuswp.cn/Article/details/658332.sHtML"
+    },
+{
+      "platform": "Claude Code 权限弹窗太烦？官方终于动手了。。。",
+      "share_url": "www.blog.iuswp.cn/Article/details/750230.sHtML"
+    },
+    {
+      "platform": "上海地铁预计平均每人次将贵1元左右",
+      "share_url": "www.blog.iuswp.cn/Article/details/959879.sHtML"
+    },
+{
+      "platform": "《动物：卑鄙的直立猿》",
+      "share_url": "www.blog.iuswp.cn/Article/details/403710.sHtML"
+    },
+{
+      "platform": "小股东连夜视察被资助的便利店",
+      "share_url": "www.blog.iuswp.cn/Article/details/785160.sHtML"
+    },
+{
+      "platform": "日本人烈日下大排长龙买中国相机",
+      "share_url": "www.blog.iuswp.cn/Article/details/206643.sHtML"
+    },
+{
+      "platform": "国产综艺为什么总是出现各种“学”",
+      "share_url": "www.blog.iuswp.cn/Article/details/272826.sHtML"
+    },
+{
+      "platform": "20822 star 的开源录屏软件弃 Tauri 换 Electron：表层是换壳，里子是 46 个 Rust 模块",
+      "share_url": "www.blog.iuswp.cn/Article/details/490345.sHtML"
+    },
+{
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "www.blog.iuswp.cn/Article/details/720035.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "www.blog.iuswp.cn/Article/details/307985.sHtML"
+    },
+{
+      "platform": "空枪 李嘉诚儿子绑架案",
+      "share_url": "www.blog.iuswp.cn/Article/details/169779.sHtML"
+    },
+{
+      "platform": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "share_url": "www.blog.iuswp.cn/Article/details/303008.sHtML"
+    },
+    {
+      "platform": "1991年、“八一九事件”，苏联八月政变",
+      "share_url": "www.blog.iuswp.cn/Article/details/920670.sHtML"
+    },
+{
+      "platform": "阔腿裤+平底鞋：今年秋天最火搭配，松弛又好看！",
+      "share_url": "www.blog.iuswp.cn/Article/details/240951.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "www.blog.iuswp.cn/Article/details/605941.sHtML"
+    },
+{
+      "platform": "大学生一个月给多少生活费合适",
+      "share_url": "www.blog.iuswp.cn/Article/details/343851.sHtML"
+    },
+{
+      "platform": "读写分离后查询到旧数据？SpringBoot多数据源一致性方案完整解析",
+      "share_url": "www.blog.iuswp.cn/Article/details/332468.sHtML"
+    },
+{
+      "platform": "大西洋上的星河璀璨",
+      "share_url": "www.blog.iuswp.cn/Article/details/255948.sHtML"
+    },
+{
+      "platform": "含金量拉满！智界 V9 七月单月交付突破 1 万台，打破高端MPV 市场格局",
+      "share_url": "www.blog.iuswp.cn/Article/details/782983.sHtML"
+    },
+{
+      "platform": "孟子义没有给cp让路的义务",
+      "share_url": "www.blog.iuswp.cn/Article/details/929196.sHtML"
+    },
+{
+      "platform": "民事诉讼法+民法典查询工具",
+      "share_url": "www.blog.iuswp.cn/Article/details/330651.sHtML"
+    },
+{
+      "platform": "我发现一个 Rust 写的多服务器管理工具，免费无节点限制",
+      "share_url": "www.blog.iuswp.cn/Article/details/757315.sHtML"
+    },
+    {
+      "platform": "蓝箭航天通过第二次大考",
+      "share_url": "www.blog.iuswp.cn/Article/details/113573.sHtML"
+    },
+{
+      "platform": "升学宴就是陋习，为何很多省份都搞这个？",
+      "share_url": "www.blog.iuswp.cn/Article/details/510669.sHtML"
+    },
+{
+      "platform": "朱一龙：大家可以叫我强哥",
+      "share_url": "www.blog.iuswp.cn/Article/details/123802.sHtML"
+    },
+{
+      "platform": "豹启新境，2027款海豹06满配上市，售价9.99万元起",
+      "share_url": "www.blog.iuswp.cn/Article/details/437198.sHtML"
+    },
+{
+      "platform": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
+      "share_url": "www.blog.iuswp.cn/Article/details/572669.sHtML"
+    },
+{
+      "platform": "班主任出嫁学生组电动车队一路护送",
+      "share_url": "www.blog.iuswp.cn/Article/details/944278.sHtML"
+    },
+{
+      "platform": "偷偷分享 DeepSeek Harness 热榜挖到的 2 个实?插件",
+      "share_url": "www.blog.iuswp.cn/Article/details/616400.sHtML"
+    },
+{
+      "platform": "日本民众排队5小时买中国相机",
+      "share_url": "www.blog.iuswp.cn/Article/details/395435.sHtML"
+    },
+{
+      "platform": "二次元的七夕大作战",
+      "share_url": "www.blog.iuswp.cn/Article/details/097123.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致骨折瘫痪",
+      "share_url": "www.blog.iuswp.cn/Article/details/329530.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/williamscrystal127/krqcnf/blob/main/20260824JfsTm.json</br>https://github.com/guzmanmichael396/awpzukt/blob/main/20260824s1XYW.json</br>https://github.com/huynhjoshua376/umaqkn/blob/main/20260824NmyeV.json</br>https://github.com/garciacheryl49/vqlyk/blob/main/20260824nbTBH.json</br>https://github.com/richardspamela2/fwwnqr/blob/main/20260824RwdLW.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/nguyenrichard997/yjjpedge/blob/main/202608253cjT1.json</br>https://github.com/galvanjoel7990/tvhnw/blob/main/202608259y0Nn.json</br>https://github.com/elliottpatricia5479/vdnwtzb/blob/main/20260824RaGrN.json</br>https://github.com/millercassandra6929/dmgdaus/blob/main/20260825U80kd.json</br>https://github.com/richardspamela2/fwwnqr/blob/main/20260825rGGt5.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月25日04时12分58秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
